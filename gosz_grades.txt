@@ -1,0 +1,4 @@
+Student: Gosz
+Grades: [90, 81, 99]
+Average: 90.00
+Status: Passed

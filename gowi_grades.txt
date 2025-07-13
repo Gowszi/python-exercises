@@ -1,0 +1,4 @@
+Student: Gowi
+Grades: [90, 80, 70]
+Average: 80.00
+Status: Passed

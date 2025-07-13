@@ -1,0 +1,12 @@
+[
+    {
+        "name": "Gowi",
+        "grades": [
+            90,
+            89,
+            88
+        ],
+        "average": 89.0,
+        "status": "Passed"
+    }
+]
